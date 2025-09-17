@@ -122,8 +122,6 @@ The library includes implementations of the following **data structures** and **
 * `BubbleSort`
 * `SelectionSort`
 * `InsertionSort`
-* `QuickSort`
-* `MergeSort`
 
 ---
 
