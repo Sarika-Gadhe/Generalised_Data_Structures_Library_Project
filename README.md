@@ -1,4 +1,4 @@
-## <h1>📘  Generic Data Structures Library</h1> 
+##<h1>📘  Generic Data Structures Library</h1> 
 
 ✨ Master core **Data Structures and Algorithms (DSA)** with clean, modular, and professional C++ implementations.  
 
@@ -7,9 +7,9 @@
 ## 📖 About the Project
 
 
-This project is a **professional C++ Data Structures and Algorithms (DSA) library**, developed with **object-oriented principles and template-based design** for reusability and scalability.  
-It provides clean implementations of **Queue, Stack, Linked Lists, Trees, and Sorting/Searching algorithms**, along with a **menu-driven interactive console application** to demonstrate and visualize operations.  
-Built with **industry-level coding practices** — clear structure, modular design, and generic programming — it serves as a valuable resource for **students, professionals, and interview preparation**.  
+- This project is a **professional C++ Data Structures and Algorithms (DSA) library**, developed with **object-oriented principles and template-based design** for reusability and scalability.  
+- It provides clean implementations of **Queue, Stack, Linked Lists, Trees, and Sorting/Searching algorithms**, along with a **menu-driven interactive console application** to demonstrate and visualize operations.  
+- Built with **industry-level coding practices** — clear structure, modular design, and generic programming — it serves as a valuable resource for **students, professionals, and interview preparation**.  
 
 ---
 
