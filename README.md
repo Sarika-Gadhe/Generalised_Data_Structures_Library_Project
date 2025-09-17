@@ -33,3 +33,140 @@ Data_Structures_Library_Project/
 └── README.md                                      # **Documentation** 
 
 ---
+
+## ✨ Features
+
+The library includes implementations of the following **data structures** and **algorithms** :
+
+
+### **Stack**
+* Operations:
+  * `Push`
+  * `Pop`
+  * `Display`
+  * `Count`
+----
+  
+### **Queue**
+* Operations:
+  * `Enqueue`
+  * `Dequeue`
+  * `Display`
+  * `Count`
+----
+
+### **Singly Circular Linked List (SCLL)**
+* Operations:
+  * Insert: `InsertFirst`, `InsertLast`, `InsertAtPos`
+  * Delete: `DeleteFirst`, `DeleteLast`, `DeleteAtPos`
+  * Search: `FirstOccurrence`, `LastOccurrence`
+  * Summation: `All`, `Odd`, `Even`
+  * Min, Max, Second Max
+  * Prime, Perfect, Palindrome numbers
+  * Digit-based utilities: `Sum`, `Reverse`, `Smallest`, `Largest`, `Product`
+  * `Display`, `Count`
+
+-----
+### **Doubly Circular Linked List (DCLL)**
+* Operations:
+  * Insert: `InsertFirst`, `InsertLast`, `InsertAtPos`
+  * Delete: `DeleteFirst`, `DeleteLast`, `DeleteAtPos`
+  * Search: `FirstOccurrence`, `LastOccurrence`
+  * Summation: `All`, `Odd`, `Even`
+  * Min, Max, Second Max
+  * Prime, Perfect, Palindrome numbers
+  * Digit-based utilities: `Sum`, `Reverse`, `Smallest`, `Largest`, `Product`
+  * `Display`, `Count`
+    
+----    
+ 
+### **Singly Linear Linked List (SLL)**
+* Operations:
+  * Insert: `InsertFirst`, `InsertLast`, `InsertAtPos`
+  * Delete: `DeleteFirst`, `DeleteLast`, `DeleteAtPos`
+  * Search: `FirstOccurrence`, `LastOccurrence`
+  * Summation: `All`, `Odd`, `Even`
+  * Min, Max, Second Max
+  * Prime, Perfect, Palindrome numbers
+  * Digit-based utilities: `Sum`, `Reverse`, `Smallest`, `Largest`, `Product`
+  * `Display`, `Count`
+    
+----
+
+### **Doubly Linear Linked List (DLL)**
+* Operations:
+  * Insert: `InsertFirst`, `InsertLast`, `InsertAtPos`
+  * Delete: `DeleteFirst`, `DeleteLast`, `DeleteAtPos`
+  * Search: `FirstOccurrence`, `LastOccurrence`
+  * Summation: `All`, `Odd`, `Even`
+  * Min, Max, Second Max
+  * Prime, Perfect, Palindrome numbers
+  * Digit-based utilities: `Sum`, `Reverse`, `Smallest`, `Largest`, `Product`
+  * `Display`, `Count`
+
+---
+
+### **Binary Search Tree (BST<T>)**
+* Operations:
+  * `Insert`
+  * `Delete`
+  * `Search`
+  * Traversals: `Inorder`, `Preorder`, `Postorder`
+  * `Height`
+  * `NodeCount`
+  * `LeafCount`
+
+---
+ 
+### **Sorting Algorithms**
+* `BubbleSort`
+* `SelectionSort`
+* `InsertionSort`
+* `QuickSort`
+* `MergeSort`
+
+---
+
+### **Searching Algorithms**
+* `LinearSearch`
+* `BinarySearch`
+
+---
+
+
+## 🔧 Build & Run
+
+### Compile
+
+```bash
+cd Data-Structures-Library
+g++ Data_Structures_Library_Main.cpp -o dslib
+```
+
+### Run
+
+```bash
+./dslib
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----
