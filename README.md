@@ -15,7 +15,7 @@ Built with **industry-level coding practices** — clear structure, modular desi
 
 ## 🛠️ Tech Stack & Design Principles
 
-- ⚡ **Language**: C++17 (Modern C++)  
+- ⚡ **Language**: C++
 - 🧩 **Paradigm**: Object-Oriented Programming (OOP) with Templates (Generic Programming)  
 - 📐 **Design Principles**:  
   - Reusable Template-based Components  
