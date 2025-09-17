@@ -1,4 +1,4 @@
-## 📘  Generic Data Structures Library 
+# 📘  Generic Data Structures Library 
 
 ✨ Master core **Data Structures and Algorithms (DSA)** with clean, modular, and professional C++ implementations.  
 
