@@ -27,10 +27,11 @@
 
 ## 📂 Project Structure
 
-Data_Structures_Library_Project/  
-├── Data_Structures_Library.cpp                  # **Implementations**  
-├── Data_Structures_Library_Main.cpp              # **Interactive demo (entry point)**  
-└── README.md                                      # **Documentation** 
+      ```text
+      Data_Structures_Library_Project/  
+      ├── Data_Structures_Library.cpp                  # **Implementations**  
+      ├── Data_Structures_Library_Main.cpp             # **Interactive demo (entry point)**  
+      └── README.md                                     # **Documentation** 
 
 ---
 
